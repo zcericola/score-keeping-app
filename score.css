@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    margin: 100px;
+    background-color: #243E36;
+    color: #E0EEC6;
+    font-family: 'roboto slab';
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+.win {
+    color: darkgreen;
+}
+
+
+button {
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    background-color: #7CA982;
+
+}
+
+input {
+    background-color: #7CA982;
+}
